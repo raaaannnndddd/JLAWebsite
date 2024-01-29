@@ -1,0 +1,34 @@
+#header > nav > a{
+    font-size: 2rem;
+}
+
+#banner h1{
+    background-size: contain;
+}
+
+body{
+    text-align: center;
+    align-items: right;
+    justify-content: right;
+    width:100%;
+    background-color: #FFECD6;
+    color: #0F2167;
+}
+
+p{
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+#courses img{
+    height:10rem;
+}
+
+#courses hr{
+    width:75vh;
+    margin: 0 auto;
+}
+
+#contact iframe{
+    height:30rem;
+    width:50rem;
+}
