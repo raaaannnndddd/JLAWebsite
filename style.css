@@ -32,3 +32,7 @@ p{
     height:30rem;
     width:50rem;
 }
+
+#header > a{
+    font-family: 'Noto Naskh Arabic', serif;
+}
